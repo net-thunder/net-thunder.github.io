@@ -2,23 +2,17 @@
 
 ## Windows、Macos启动
 
-- 进入首页
+- 配置连接信息
 ![](/resource/client.png)
-
-
-- 配置app/application.yaml文件
 
 ![](/resource/client-setting.png)
 
 ```yaml
 # 租户code
 tenantId: default
-# api服务地址
-httpServer: 127.0.0.1:11805
+# 公网api/web端口地址
+httpServer: 192.222.0.152:11805
 ```
-
-**提示：MacOS通过右键显示包内容进入编辑**
-![](/resource/macos-show-content.png)
 
 - 点击启动，连接服务器成功
 ![](/resource/client-connect.png)

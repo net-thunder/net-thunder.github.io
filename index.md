@@ -22,5 +22,8 @@ features:
   - title: 部署
     details: 三个角色的部署
     link: doc/deploy/server.md
+  - title: 代码调试
+    details: 二次开发
+    link: doc/develop.md
 ---
 

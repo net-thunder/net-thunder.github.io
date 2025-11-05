@@ -49,12 +49,12 @@ export default defineConfig({
             link: 'doc/deploy/route.md'
           },
           {
-            text: '配置安全规则',
-            link: 'doc/deploy/rule.md'
-          },
-          {
             text: '客户端部署',
             link: 'doc/deploy/client.md'
+          },
+          {
+            text: '配置安全规则',
+            link: 'doc/deploy/rule.md'
           }
         ]
       },
@@ -65,7 +65,11 @@ export default defineConfig({
       {
         text: '代码结构',
         link: 'doc/code.md'
-      }
+      },
+      {
+        text: '代码调试',
+        link: 'doc/develop.md'
+      },
     ],
     socialLinks: [
     ]
