@@ -1,3 +1,6 @@
+# 版本下载
+[net-thunder/releases](https://github.com/net-thunder/net-thunder/releases)
+
 # 客户端启动
 
 ## Windows、Macos启动
